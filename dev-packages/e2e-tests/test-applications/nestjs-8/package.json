@@ -17,9 +17,9 @@
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
-    "@nestjs/microservices": "^10.0.0",
+    "@nestjs/microservices": "^8.0.0",
     "@nestjs/schedule": "^4.1.0",
-    "@nestjs/platform-express": "^10.0.0",
+    "@nestjs/platform-express": "^8.0.0",
     "@sentry/nestjs": "latest || *",
     "@sentry/types": "latest || *",
     "reflect-metadata": "^0.2.0",
